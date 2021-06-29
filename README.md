@@ -1,24 +1,25 @@
-# vue-chrome
+# Vue3 + AntD
 
-## Project setup
+## 安装依赖
 ```
 yarn install
+或
+npm install
 ```
 
-### Compiles and hot-reloads for development
+### 打包
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+yarn run build
+或
+npm run build
 ```
 
-### Lints and fixes files
+### chrome安装插件
 ```
-yarn lint
+扩展程序--加载已解压的扩展程序--选择打包后的dist文件夹
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用
+```
+Good Luck！
+```
